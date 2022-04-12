@@ -1,27 +1,23 @@
 # HeroesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
+An App for Management Heros
 
-## Development server
+# Tools and technologies
+* [Angular](https://es.reactjs.org/) - Framework
+* [Angular Material](https://material.angular.io/) Material Design components for Angular
+* [Angular Flex-layout](https://www.npmjs.com/package/@angular/flex-layout) - flex and grid for angular
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+# Deployment
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[GitHub Pages]()
 
-## Build
+# To run this app
+1. Clone this repo
+2. Run ```npm install```
+3. Run ```npm start```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Credits
+accesibleprogramacion:
+Youtube Chanel: [accesibleprogramacion](https://www.youtube.com/channel/UCCsSBV1Jzk_ZtfPKKddNXgA) 
+GitHub: [accesibleprogramacion](https://github.com/accesibleprogramacion/ta-te-ti) 
