@@ -16,10 +16,10 @@ An App for Management Heros
 # To run this app
 1. Clone this repo
 2. Run ```npm install```
-3. Run npm i json-server
+3. Run `npm i json-server`
 3. Run ```npm start```
-4 for run backend
-5 In the terminal search the file `05-heroes-server`
-6 Next, run in terminal `json-server --watch db.json`
+4. for run backend
+5. In the terminal search the file `05-heroes-server`
+6. Next, run in terminal `json-server --watch db.json`
 
 
