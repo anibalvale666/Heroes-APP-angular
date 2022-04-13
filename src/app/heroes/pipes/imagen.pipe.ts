@@ -1,8 +1,9 @@
 import { Pipe, PipeTransform } from '@angular/core';
 import { Heroe } from '../interfaces/heroes.interface';
-
 @Pipe({
-  name: 'imagen'
+  name: 'imagen',
+  // pure : false --> esto ahce qeu cada vez qeu se renderize o cambie le estado de angualr se dispare el pipe, consume mas recursos
+  // epro puede ayudar a ser mas reactivo la aplicacion
 })
 export class ImagenPipe implements PipeTransform {
 
